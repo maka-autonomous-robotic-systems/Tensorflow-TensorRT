@@ -3,3 +3,12 @@ model/
 .ipynb_checkpoints
 __pycache__
 
+# mac
+.DS_Store
+
+# PyCharm
+.idea/
+
+# pyenv
+.python-version
+
